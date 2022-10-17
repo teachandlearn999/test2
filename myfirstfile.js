@@ -1,3 +1,3 @@
-function test(value) {
-    return value;
+function test(value1) {
+    return value1;
 }
